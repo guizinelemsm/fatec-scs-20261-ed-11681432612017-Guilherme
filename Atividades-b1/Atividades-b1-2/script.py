@@ -5,11 +5,11 @@ Caetano
 do
 Sul
 Atividade
-B1 - 1
+B1 - 2
 
 Author[1681432612017]
 Objetivo: X
-data: 24 / 02 / 2026
+data: 19 / 03 / 2026
 *------------------------------------------ * """
 
 class Node:
