@@ -1,3 +1,17 @@
+""""------------------------------------------ *
+Fatec
+São
+Caetano
+do
+Sul
+Atividade
+B1 - 1
+
+Author[1681432612017]
+Objetivo: X
+data: 24 / 02 / 2026
+*------------------------------------------ * """
+
 class Node:
     def __init__(self, value):
         self.value = value
