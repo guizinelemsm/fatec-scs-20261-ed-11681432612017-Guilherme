@@ -1,3 +1,17 @@
+""""------------------------------------------ *
+Fatec
+São
+Caetano
+do
+Sul
+Atividade
+B1 - 1
+
+Author[1681432612017]
+Objetivo: X
+data: 30 / 03 / 2026
+*------------------------------------------ * """
+
 x = y = z = t = 0
 string_x = string_y = string_z = string_t = ""
 
